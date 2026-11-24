@@ -37,7 +37,7 @@ const products = [
     categoryLabel: "Fresh & Frozen Produce",
     title: "Fresh Onions, Vegetables & Leafy Greens",
     hs: "HS Code: 0703 / 0709",
-    desc: "Farm-fresh red & rose onions, drumstick, okra, green chillies, curry leaves, and pre-cooled seasonal vegetables harvested at peak maturity.",
+    desc: "Farm-fresh red & rose onions, drumstick, okra, green chillies, curry leaves, and seasonal vegetables harvested at peak maturity.",
     packaging: "5kg / 10kg / 20kg Ventilated Mesh Bags & Corrugated Cartons",
     origin: "Coimbatore & Oddanchatram Agro Belts"
   },
@@ -48,7 +48,7 @@ const products = [
     title: "Tropical Fresh Fruits & IQF Frozen Vegetables",
     hs: "HS Code: 0803 / 0804 / 0710",
     desc: "Cavendish & Nendran bananas, Alphonso/Banganapalli mangoes, pomegranates, plus hygienically blanched & frozen cut vegetables.",
-    packaging: "Export-Grade CFB Boxes with Cold-Chain Pre-Cooling",
+    packaging: "Export-Grade CFB Boxes with Protective Transit Packing",
     origin: "Tamil Nadu & South India"
   },
   {
